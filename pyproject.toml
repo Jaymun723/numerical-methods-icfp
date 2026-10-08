@@ -1,0 +1,17 @@
+[project]
+name = "numerical-methods-icfp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Victor CARO", email = "victor.caro@polytechnique.edu" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "physics-tenpy>=1.1.1",
+    "scipy>=1.18.1",
+]
+
